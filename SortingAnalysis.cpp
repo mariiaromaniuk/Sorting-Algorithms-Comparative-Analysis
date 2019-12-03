@@ -1,8 +1,6 @@
 /*
  Created by Mariia Romaniuk
  Sorting Analysis
- CSC 331H
- Professor Anna Salvati
  
  Program compares the relative performance of different sorting algorithms on
  datasets containing  integers. Ultimately, the data sorted in ascending order.
