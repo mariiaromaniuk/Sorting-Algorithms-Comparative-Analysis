@@ -1,4 +1,4 @@
-# Sorting-Algorithms-Comparative-Analysis
+# Sorting Algorithms Comparative Analysis
 Program compares the relative performance of different sorting algorithms on datasets containing  integers. Ultimately, the data sorted in ascending order. Program tested on two different array sizes: 100 and 1000.
 
 The following random number distributions are used:
